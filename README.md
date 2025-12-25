@@ -224,17 +224,9 @@ Possible improvements:
 2. Ensure token correctness
 3. Check firewall settings
 
-## 📞 Support
-
-If problems occur:
-1. Check application logs
-2. Study Telegram Bot API documentation
-3. Create an issue in the repository
-
 ## 📄 License
 
 MIT License - free use and modification.
 
 ---
 
-🎯 **Good luck developing your business with our bot!**
